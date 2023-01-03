@@ -1,2 +1,3 @@
 # TestsMergeConfict
-Tests line addded 
+Tests line addded testst
+
