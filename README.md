@@ -1,2 +1,2 @@
 # TestsMergeConfict
-Tests
+Tests line addded 
