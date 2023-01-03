@@ -1,0 +1,2 @@
+# TestsMergeConfict
+Tests
